@@ -1,1 +1,3 @@
 # ShoppingOracleSQL
+
+CRUD Java application
